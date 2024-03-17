@@ -7,6 +7,8 @@ ECI disclosed this data [here](https://www.eci.gov.in/disclosure-of-electoral-bo
 
 The intent of this is to make the data more accessible for analysis using MS Excel or similar tools.
 
+Supreme court registry data is unfortunately not in a format that can be ported to CSV. It doesn't follow any fixed format and is also a scan of declarations by political parties.
+
 ---
 
 ### Data & Output
