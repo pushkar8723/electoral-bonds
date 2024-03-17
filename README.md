@@ -49,7 +49,7 @@ Note: Dashboard is independent from the Python script. Hence you can directly ru
 ### Future Plan
 
 Currently, there is no link between who donated and to whom. This should be available once the bond ids are released by SBI.
-I will update this repo one the data is available in the public domain.
+I will update this repo once the data is available in the public domain.
 
 ---
 
