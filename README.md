@@ -28,6 +28,12 @@ This will
 - convert `data/purchaser.pdf` to `output/purchase.pdf`
 - convert `data/encasher.pdf` to `output/encash.pdf`  
 
+### Dashboard
+
+I also created dashboards using [Metabase](https://github.com/metabase). These dashboards can be easily run and accessed locally.
+
+[Instructions to run the dasbhoard](https://github.com/pushkar8723/electoral-bonds/tree/main/dashboard)
+
 ##### Disclaimer
 
 - I only changed the format of the data released by ECI and have not manipulated it in anyway.
