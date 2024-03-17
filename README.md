@@ -38,6 +38,8 @@ I also created dashboards using [Metabase](https://github.com/metabase). These d
 
 [Instructions to run the dasbhoard](https://github.com/pushkar8723/electoral-bonds/tree/main/dashboard)
 
+Note: Dashboard is independent from the Python script. Hence you can directly run the dashboard by following the instructions above.
+
 ![image](https://github.com/pushkar8723/electoral-bonds/assets/2996493/e89a109f-4952-4380-8cc9-ce4053257ef7)
 
 ![image](https://github.com/pushkar8723/electoral-bonds/assets/2996493/31d341a2-d91c-4875-9448-fcc5ef19c99b)
