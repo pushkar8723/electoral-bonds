@@ -1,7 +1,7 @@
 Electoral Bonds
 ===============
 
-Ported electoral bonds data released by SBI to ECI to CSV (to make it easier to read and analyze).
+Ported electoral bonds data released by SBI & ECI (in PDF format) to CSV (to make it easier to read and analyze).
 
 ECI disclosed this data [here](https://www.eci.gov.in/disclosure-of-electoral-bonds)
 
