@@ -31,9 +31,15 @@ docker-compose up
 
 Note: Dashboard is independent from the Python script. Hence you can directly run the dashboard by following the instructions above.
 
-![image](https://github.com/pushkar8723/electoral-bonds/assets/2996493/e89a109f-4952-4380-8cc9-ce4053257ef7)
+![image](https://github.com/pushkar8723/electoral-bonds/assets/2996493/c30a4c5d-8273-4fba-bdfb-cd0880d216fe)
 
-![image](https://github.com/pushkar8723/electoral-bonds/assets/2996493/31d341a2-d91c-4875-9448-fcc5ef19c99b)
+![image](https://github.com/pushkar8723/electoral-bonds/assets/2996493/a7ac8933-1794-4ca0-a121-890afb28b954)
+
+![image](https://github.com/pushkar8723/electoral-bonds/assets/2996493/9826a0f6-1b13-4fcf-a033-804e4d76c9bc)
+
+![image](https://github.com/pushkar8723/electoral-bonds/assets/2996493/eb1af64f-89cb-4ec9-9864-69c6c2ed050b)
+
+![image](https://github.com/pushkar8723/electoral-bonds/assets/2996493/d1959db0-182b-41d4-824b-14153cea34e8)
 
 ---
 
