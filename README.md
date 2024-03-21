@@ -1,24 +1,24 @@
 Electoral Bonds
 ===============
 
-Ported electoral bonds data released by SBI & ECI (in PDF format) to CSV (to make it easier to read and analyze).
+Ported electoral bonds data released by SBI & ECI (in PDF format) to CSV and MySQL DB (to make it easier to read and analyze).
 
 ECI disclosed this data [here](https://www.eci.gov.in/disclosure-of-electoral-bonds)
 
-The intent of this is to make the data more accessible for analysis using MS Excel or similar tools.
+This intends to make the data more accessible for analysis using MS Excel or similar tools.
 
-Supreme court registry data is unfortunately not in a format that can be ported to CSV. It doesn't follow any fixed format and is also a scan of declarations by political parties.
+Supreme court registry data is unfortunately not in a format that can be easily ported to CSV. It doesn't follow any fixed format and mostly consists of a scan of political parties' declarations.
 
 ---
 
 ### Dashboard
 
-I also created a dashboard using [Metabase](https://github.com/metabase). This dashboards can be easily run and accessed locally and it also supports a few filters.
+Besides migrating the data to CSV and MySQL DB, I also created a dashboard using [Metabase](https://github.com/metabase). This dashboard can be easily run and accessed locally and it also supports a few filters.
 
 To run the dashboard locally you would need `docker` and `docker-compose` installed on your system.
-On windows and mac these can be installed using [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+On Windows and Mac these can be installed using [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 
-Once docker is installed on your system run following command in `dashboard` directory to run the dashboard
+Once docker is installed on your system run the following command in the `dashboard` directory to run the dashboard
 
 ```
 docker-compose up
@@ -27,9 +27,9 @@ docker-compose up
 [Dashboard Link](http://localhost:3000/public/dashboard/f1201124-1063-427c-8d98-511578b73159)
 
 
-[Furthur Instructions to run / update the dasbhoard](https://github.com/pushkar8723/electoral-bonds/tree/main/dashboard)
+[Furthur Instructions to run/update the dasbhoard](https://github.com/pushkar8723/electoral-bonds/tree/main/dashboard)
 
-Note: Dashboard is independent from the Python script. Hence you can directly run the dashboard by following the instructions above.
+Note: The dashboard is independent of the Python script. Thus you can directly run the dashboard by following the instructions above.
 
 ![image](https://github.com/pushkar8723/electoral-bonds/assets/2996493/c30a4c5d-8273-4fba-bdfb-cd0880d216fe)
 
@@ -45,7 +45,7 @@ Note: Dashboard is independent from the Python script. Hence you can directly ru
 
 ### Data & Output
 
-I included the PDFs released by ECI inside `data` directory and the corresponding CSVs in `output` directory.
+I included the PDFs released by ECI inside the `data` directory and the corresponding CSVs in the `output` directory.
 
 #### Script
 
@@ -55,7 +55,7 @@ The following are the prerequisites to run this Python file.
 - Java 8+
 - [Tabula Python module](https://github.com/tabulapdf/tabula)
 
-To run the script simply run 
+To run the script run 
 ```sh
 python main.py
 ```
