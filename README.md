@@ -16,7 +16,8 @@ Supreme court registry data is unfortunately not in a format that can be easily 
 Besides migrating the data to CSV and MySQL DB, I also created a dashboard using [Metabase](https://github.com/metabase). This dashboard can be easily run and accessed locally and it also supports a few filters.
 
 To run the dashboard locally you would need `docker` and `docker-compose` installed on your system.
-On Windows and Mac these can be installed using [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+On Windows and Mac, these can be installed using [Docker Desktop](https://www.docker.com/products/docker-desktop/). 
+On Linux, you can choose to use Docker desktop or install both `docker` and `docker-compose` using the distro's official package manager.
 
 Once docker is installed on your system run the following command in the `dashboard` directory to run the dashboard
 
