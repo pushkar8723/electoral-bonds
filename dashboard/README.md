@@ -16,9 +16,7 @@ After that run the following command:
 docker-compose up
 ```
 
-Click on the link below to access the dashboards
-- [Purchase](http://localhost:3000/public/dashboard/8fdcaa0f-66de-4e60-8ffb-0e0d4bbca8e2)
-- [Encashed](http://localhost:3000/public/dashboard/104cde10-40b4-4d16-a2ba-c7c3b109c614)
+[Dashboard URL](http://localhost:3000/public/dashboard/f1201124-1063-427c-8d98-511578b73159)
 
 ---
 
