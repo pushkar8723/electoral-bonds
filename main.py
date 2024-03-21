@@ -1,7 +1,7 @@
 import tabula
 
-dfs = tabula.read_pdf('data/purchaser.pdf', pages='all')
-tabula.convert_into("data/purchaser.pdf", "output/purchase.csv", output_format="csv", pages='all')
+dfs = tabula.read_pdf('data/purchase-full-disclosure.pdf', pages='all')
+tabula.convert_into("data/purchase-full-disclosure.pdf", "output/purchase-full-disclosure.csv", output_format="csv", pages='all')
 
-dfs = tabula.read_pdf('data/encasher.pdf', pages='all')
-tabula.convert_into("data/encasher.pdf", "output/encash.csv", output_format="csv", pages='all')
+dfs = tabula.read_pdf('data/encashed-full-disclosure.pdf', pages='all')
+tabula.convert_into("data/encashed-full-disclosure.pdf", "output/encashed-full-disclosure.csv", output_format="csv", pages='all')
