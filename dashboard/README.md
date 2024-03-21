@@ -1,7 +1,7 @@
 Dashboard
 =========
 
-I also collated the data and made 2 dashboards. One for the purchaser and one for the receiver (en-casher).
+I also collated the data and made a dashboard.
 For this, I imported the CSV files into MySQL db and used [Metabase](https://github.com/metabase) to create these dashboards.
 These dashboards can be easily accessed by running the docker containers.
 
@@ -16,7 +16,7 @@ After that run the following command:
 docker-compose up
 ```
 
-[Dashboard URL](http://localhost:3000/public/dashboard/f1201124-1063-427c-8d98-511578b73159)
+[Dashboard Link](http://localhost:3000/public/dashboard/f1201124-1063-427c-8d98-511578b73159)
 
 ---
 
@@ -25,8 +25,8 @@ docker-compose up
 Then you can access Metabase @ [localhost:3000](http://localhost:3000/)
 
 To log in, enter the following credentials:
-- Email: admin@pushkaranand.com
-- Password: p@ssw0rd1
+- Email: `admin@pushkaranand.com`
+- Password: `p@ssw0rd1`
 
 ---
 
@@ -35,6 +35,6 @@ To log in, enter the following credentials:
 Running `docker-compose up` command will also expose the MySQL DB.
 
 You can use the following credentials to connect to it.
-- user: root
-- password: p@ssw0rd
-- db: electoral-bonds
+- user: `root`
+- password: `p@ssw0rd`
+- db: `electoral-bonds`
