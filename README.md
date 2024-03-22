@@ -32,15 +32,18 @@ docker-compose up
 
 Note: The dashboard is independent of the Python script. Thus you can directly run the dashboard by following the instructions above.
 
-![image](https://github.com/pushkar8723/electoral-bonds/assets/2996493/c30a4c5d-8273-4fba-bdfb-cd0880d216fe)
+![image](https://github.com/pushkar8723/electoral-bonds/assets/2996493/2fa8deb9-0fce-4ee3-b688-67bd8e8c2dc0)
 
-![image](https://github.com/pushkar8723/electoral-bonds/assets/2996493/a7ac8933-1794-4ca0-a121-890afb28b954)
+![image](https://github.com/pushkar8723/electoral-bonds/assets/2996493/3e6eb4dc-3d18-4230-93d8-644bf82eace3)
 
-![image](https://github.com/pushkar8723/electoral-bonds/assets/2996493/9826a0f6-1b13-4fcf-a033-804e4d76c9bc)
+![image](https://github.com/pushkar8723/electoral-bonds/assets/2996493/7c50c345-5f68-4705-8c12-7a33dd3d647f)
 
-![image](https://github.com/pushkar8723/electoral-bonds/assets/2996493/eb1af64f-89cb-4ec9-9864-69c6c2ed050b)
+![image](https://github.com/pushkar8723/electoral-bonds/assets/2996493/9cc8a758-ea03-4947-9b95-1b1dbe4ba75f)
 
-![image](https://github.com/pushkar8723/electoral-bonds/assets/2996493/d1959db0-182b-41d4-824b-14153cea34e8)
+![image](https://github.com/pushkar8723/electoral-bonds/assets/2996493/44959826-40ea-4f57-b352-c3fb158c0530)
+
+![image](https://github.com/pushkar8723/electoral-bonds/assets/2996493/f0824ee7-d843-4904-b2f0-008997fe1d97)
+
 
 ---
 
